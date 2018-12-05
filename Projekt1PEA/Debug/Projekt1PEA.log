@@ -1,6 +1,0 @@
-﻿  Komiwojazer.cpp
-c:\users\dawid\documents\visual studio 2015\projects\projekt1pea\projekt1pea\komiwojazer.cpp(9): warning C4553: '==': operator has no effect; did you intend '='?
-c:\users\dawid\documents\visual studio 2015\projects\projekt1pea\projekt1pea\komiwojazer.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\dawid\documents\visual studio 2015\projects\projekt1pea\projekt1pea\komiwojazer.cpp(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Projekt1PEA.vcxproj -> C:\Users\Dawid\documents\visual studio 2015\Projects\Projekt1PEA\Debug\Projekt1PEA.exe
-  Projekt1PEA.vcxproj -> C:\Users\Dawid\documents\visual studio 2015\Projects\Projekt1PEA\Debug\Projekt1PEA.pdb (Full PDB)
