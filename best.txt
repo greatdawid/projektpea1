@@ -6,3 +6,4 @@ data29  bayg29:     1610
 data42  dantzig42:   699
 data58  brazil58:  25395
 data120 gr120:      6942
+cos no
